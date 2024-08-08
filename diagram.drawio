@@ -1,0 +1,16 @@
+<mxfile host="65bd71144e">
+    <diagram id="SOgGE74uMFeEWkqgk0IQ" name="Page-1">
+        <mxGraphModel dx="777" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="Class: Shoe&lt;br&gt;Class Attributes: brands, sizes&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Class Methods:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Instances: def init (self)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Instance Attributes: brand, size&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Instance Methods: def int size, def can_cobble, def cobble_makes_new&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="80" width="220" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;br&gt;&lt;br&gt;Class: Book&lt;br&gt;Class Attributes: titles, pages_count&lt;br&gt;Class Methods:&lt;br&gt;&lt;br&gt;Instances: def init (self)&lt;br&gt;Instance Attributes: title, page_count&lt;br&gt;Instance Methods: def page count, def turn page&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="80" width="220" height="200" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
